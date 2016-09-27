@@ -2,4 +2,4 @@
 
 This is a sample code which lets you show and hide GIF image with android
 
-![Demo](http://imgur.com/a/4WEAW)
+<img> http://imgur.com/a/4WEAW </img>
