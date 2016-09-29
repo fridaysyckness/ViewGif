@@ -1,3 +1,3 @@
 # Android Show/Hide GIF
 
-![alt tag](https://github.com/fridaysyckness/ViewGif)
+https://github.com/fridaysyckness/ViewGif/wiki/Animated%20Screenshot
