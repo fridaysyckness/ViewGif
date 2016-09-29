@@ -1,3 +1,3 @@
 # Android Show/Hide GIF
 
-https://github.com/fridaysyckness/ViewGif/wiki/Animated%20Screenshot
+http://imgur.com/a/4WEAW
