@@ -1,3 +1,3 @@
 # Android Show/Hide GIF
 
-http://imgur.com/a/4WEAW
+![screenshot](https://github.com/fridaysyckness/ViewGif/blob/master/screenshot/V7mK2ZC.gif)
